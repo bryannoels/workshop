@@ -1,0 +1,24 @@
+*{
+    color: red;
+}
+
+.atas{
+    color: blue;
+}
+
+
+/*WARNA IJO*/
+p{
+    color: green;
+}
+
+/*WARNA UNGU*/
+#abc{
+    color: purple;
+
+}
+
+p:fullscreen{
+    background-color: yellow;
+}
+
